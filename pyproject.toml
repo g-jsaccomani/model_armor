@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "google-cloud-model-armor-guardrails"
+version = "1.0.0"
+authors = [
+  { name="Joabson Saccomani", email="jsaccomani@google.com" },
+]
+description = "Google Cloud Model Armor - Enterprise LLM Guardrails & AI Safety Framework"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Topic :: Security",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "google-auth>=2.28.0",
+    "certifi>=2024.2.2",
+]
+
+[project.scripts]
+model-armor = "guardrails.cli:main"
