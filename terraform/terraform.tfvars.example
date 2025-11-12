@@ -1,0 +1,11 @@
+project_id             = "your-security-project-id"
+location               = "us-central1"
+template_id            = "secops-guardrail-default"
+enable_floor_setting   = true
+enable_dlp_integration = true
+
+labels = {
+  environment = "security-lab"
+  managed-by  = "terraform"
+  project     = "model-armor"
+}
