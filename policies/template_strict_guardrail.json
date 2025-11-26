@@ -1,0 +1,44 @@
+{
+  "filterConfig": {
+    "raiSettings": {
+      "raiFilters": [
+        {
+          "filterType": "HATE_SPEECH",
+          "confidenceLevel": "LOW_AND_ABOVE"
+        },
+        {
+          "filterType": "HARASSMENT",
+          "confidenceLevel": "LOW_AND_ABOVE"
+        },
+        {
+          "filterType": "SEXUALLY_EXPLICIT",
+          "confidenceLevel": "LOW_AND_ABOVE"
+        },
+        {
+          "filterType": "DANGEROUS",
+          "confidenceLevel": "LOW_AND_ABOVE"
+        }
+      ]
+    },
+    "piAndJailbreakFilterSettings": {
+      "filterEnforcement": "ENABLED",
+      "confidenceLevel": "LOW_AND_ABOVE"
+    },
+    "maliciousUriFilterSettings": {
+      "filterEnforcement": "ENABLED"
+    }
+  },
+  "templateMetadata": {
+    "logSanitizeOperations": true,
+    "customPromptSafetyErrorMessage": "CRITICAL: The prompt was blocked due to violation of strict enterprise security guardrails (Prompt Injection / Adversarial Attempt / Toxic Content).",
+    "customPromptSafetyErrorCode": 403,
+    "customLlmResponseSafetyErrorMessage": "CRITICAL: The generated model response was blocked by enterprise data safety guardrails.",
+    "customLlmResponseSafetyErrorCode": 403
+  },
+  "labels": {
+    "security-level": "strict",
+    "environment": "production",
+    "compliance": "regulated-workloads",
+    "managed-by": "secops"
+  }
+}
