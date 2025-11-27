@@ -1,0 +1,33 @@
+{
+  "deidentifyTemplate": {
+    "displayName": "Model Armor Enterprise Sensitive Data Masking Template",
+    "description": "Masks and redacts identified PII and credentials using masking transformations for Model Armor",
+    "deidentifyConfig": {
+      "infoTypeTransformations": {
+        "transformations": [
+          {
+            "infoTypes": [
+              {"name": "EMAIL_ADDRESS"},
+              {"name": "PHONE_NUMBER"},
+              {"name": "CREDIT_CARD_NUMBER"},
+              {"name": "US_SOCIAL_SECURITY_NUMBER"},
+              {"name": "BRAZIL_CPF_NUMBER"},
+              {"name": "AUTH_TOKEN"},
+              {"name": "GCP_CREDENTIALS"},
+              {"name": "JSON_WEB_TOKEN"},
+              {"name": "GENERIC_API_KEY"},
+              {"name": "IP_ADDRESS"}
+            ],
+            "primitiveTransformation": {
+              "maskConfig": {
+                "maskingCharacter": "*",
+                "numberToMask": 0,
+                "reverseOrder": false
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
