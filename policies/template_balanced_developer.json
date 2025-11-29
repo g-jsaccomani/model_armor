@@ -1,0 +1,44 @@
+{
+  "filterConfig": {
+    "raiSettings": {
+      "raiFilters": [
+        {
+          "filterType": "HATE_SPEECH",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        },
+        {
+          "filterType": "HARASSMENT",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        },
+        {
+          "filterType": "SEXUALLY_EXPLICIT",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        },
+        {
+          "filterType": "DANGEROUS",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        }
+      ]
+    },
+    "piAndJailbreakFilterSettings": {
+      "filterEnforcement": "ENABLED",
+      "confidenceLevel": "MEDIUM_AND_ABOVE"
+    },
+    "maliciousUriFilterSettings": {
+      "filterEnforcement": "ENABLED"
+    }
+  },
+  "templateMetadata": {
+    "logSanitizeOperations": true,
+    "customPromptSafetyErrorMessage": "Prompt blocked by Model Armor security guardrail.",
+    "customPromptSafetyErrorCode": 400,
+    "customLlmResponseSafetyErrorMessage": "Model response blocked by Model Armor safety guardrail.",
+    "customLlmResponseSafetyErrorCode": 400
+  },
+  "labels": {
+    "security-level": "balanced",
+    "environment": "lab-and-staging",
+    "workload": "developer-tools",
+    "managed-by": "secops"
+  }
+}
