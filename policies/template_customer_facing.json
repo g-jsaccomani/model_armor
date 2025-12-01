@@ -1,0 +1,44 @@
+{
+  "filterConfig": {
+    "raiSettings": {
+      "raiFilters": [
+        {
+          "filterType": "HATE_SPEECH",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        },
+        {
+          "filterType": "HARASSMENT",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        },
+        {
+          "filterType": "SEXUALLY_EXPLICIT",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        },
+        {
+          "filterType": "DANGEROUS",
+          "confidenceLevel": "MEDIUM_AND_ABOVE"
+        }
+      ]
+    },
+    "piAndJailbreakFilterSettings": {
+      "filterEnforcement": "ENABLED",
+      "confidenceLevel": "MEDIUM_AND_ABOVE"
+    },
+    "maliciousUriFilterSettings": {
+      "filterEnforcement": "ENABLED"
+    }
+  },
+  "templateMetadata": {
+    "logSanitizeOperations": true,
+    "customPromptSafetyErrorMessage": "We cannot process this request because it violates our acceptable use and safety guidelines.",
+    "customPromptSafetyErrorCode": 422,
+    "customLlmResponseSafetyErrorMessage": "I apologize, but I cannot provide that information as it does not comply with safety policies.",
+    "customLlmResponseSafetyErrorCode": 422
+  },
+  "labels": {
+    "security-level": "customer-facing",
+    "environment": "production",
+    "channel": "public-chat-and-support",
+    "managed-by": "secops"
+  }
+}
