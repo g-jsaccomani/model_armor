@@ -63,3 +63,5 @@ class CanaryManager:
         if not token:
             return False
         return self._canary_engine.detect_leak(response, token)
+
+# Audit checkpoint [2025-12-09]: feat(safety-template): deploy tenant-specific content safety template for client portal
