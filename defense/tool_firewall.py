@@ -77,3 +77,5 @@ class ToolFirewall:
                 return False, f"Violation in argument '{arg_name}': {err}"
 
         return True, None
+
+# Audit checkpoint [2025-12-10]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
