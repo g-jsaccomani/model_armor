@@ -11,3 +11,6 @@ All notable changes and security updates recorded below.
 ### [2025-12-10] refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 - Built drop-in ASGI middleware intercepting incoming requests and outgoing LLM streaming responses.
 
+### [2025-12-11] docs(adversarial-tests): document adversarial robustness testing results for client validation
+- Authored technical report detailing red-team findings on Model Armor protected endpoints.
+

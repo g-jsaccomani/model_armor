@@ -9,3 +9,5 @@ Currently, all versions on the `main` branch receive security updates.
 Please **do not report security vulnerabilities publicly via GitHub issues**. 
 If you identify a security issue, send an email directly to jsaccomani@google.com. 
 Your report will be evaluated and responded to as soon as possible.
+
+<!-- Checkpoint: 2025-12-11 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
