@@ -66,3 +66,5 @@ flowchart TD
 
 5. **Security Telemetry & Cloud Logging**:
    - Comprehensive audit logging for all sanitization requests and policy violations forwarded to Cloud Logging and Google Security Operations (Chronicle SIEM).
+
+<!-- Checkpoint: 2025-12-17 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
