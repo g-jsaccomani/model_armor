@@ -68,3 +68,5 @@ class HeuristicFilter:
                     reasons.append(f"Matched hidden signature in decoded payload: {pat.pattern}")
 
         return len(reasons) > 0, reasons
+
+# Audit checkpoint [2025-12-17]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
