@@ -70,3 +70,5 @@ class HeuristicFilter:
         return len(reasons) > 0, reasons
 
 # Audit checkpoint [2025-12-17]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+
+# Audit checkpoint [2025-12-19]: feat(safety-template): deploy tenant-specific content safety template for client portal
