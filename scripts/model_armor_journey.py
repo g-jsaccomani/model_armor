@@ -565,3 +565,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Audit checkpoint [2025-12-19]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
