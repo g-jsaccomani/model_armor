@@ -79,3 +79,5 @@ class ToolFirewall:
         return True, None
 
 # Audit checkpoint [2025-12-10]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2025-12-23]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
