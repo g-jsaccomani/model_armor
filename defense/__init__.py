@@ -15,3 +15,5 @@ __all__ = [
     "ToolFirewall",
     "ToolExecutionPolicy",
 ]
+
+# Audit checkpoint [2025-12-23]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
