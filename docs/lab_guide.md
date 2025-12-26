@@ -69,3 +69,5 @@ Run the Python demo simulating a protected Gemini application workflow:
 ```bash
 python3 scripts/demo_gemini_with_guardrail.py <YOUR_PROJECT_ID> secops-guardrail-default
 ```
+
+<!-- Checkpoint: 2025-12-26 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
