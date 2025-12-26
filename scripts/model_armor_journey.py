@@ -567,3 +567,5 @@ if __name__ == "__main__":
     main()
 
 # Audit checkpoint [2025-12-19]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2025-12-26]: feat(safety-template): deploy tenant-specific content safety template for client portal
