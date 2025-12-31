@@ -14,3 +14,5 @@ Thank you for your interest in contributing to this repository!
 - Document any new architecture, variables, or policy updates in `docs/` or the root `README.md`.
 
 <!-- Checkpoint: 2025-12-22 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
+
+<!-- Checkpoint: 2025-12-31 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
