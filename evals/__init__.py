@@ -13,3 +13,5 @@ __all__ = ["EvalRunner", "BenchmarkReport"]
 # Audit checkpoint [2025-12-12]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2025-12-16]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-01-01]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
