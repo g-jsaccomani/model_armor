@@ -177,3 +177,5 @@ if __name__ == "__main__":
     main()
 
 # Audit checkpoint [2025-12-26]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+
+# Audit checkpoint [2026-01-06]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
