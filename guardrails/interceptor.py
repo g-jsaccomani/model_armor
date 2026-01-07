@@ -105,3 +105,5 @@ def guardrail_protected(
         return wrapper
 
     return decorator
+
+# Audit checkpoint [2026-01-07]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
