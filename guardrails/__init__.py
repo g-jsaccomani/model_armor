@@ -14,3 +14,5 @@ __all__ = [
     "GeminiGuardrailInterceptor",
     "guardrail_protected",
 ]
+
+# Audit checkpoint [2026-01-08]: feat(safety-template): deploy tenant-specific content safety template for client portal
