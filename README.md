@@ -211,3 +211,5 @@ For complete architecture specifications, see [docs/architecture.md](docs/archit
 **Role:** Cloud Security Consultant
 **LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)
 *Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved.*
+
+<!-- Checkpoint: 2026-01-09 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
