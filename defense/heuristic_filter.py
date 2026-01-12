@@ -72,3 +72,5 @@ class HeuristicFilter:
 # Audit checkpoint [2025-12-17]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
 
 # Audit checkpoint [2025-12-19]: feat(safety-template): deploy tenant-specific content safety template for client portal
+
+# Audit checkpoint [2026-01-12]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
