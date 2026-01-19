@@ -104,3 +104,6 @@ All notable changes and security updates recorded below.
 ### [2026-01-17] feat(safety-template): deploy tenant-specific content safety template for client portal
 - Configured custom safety templates with distinct sensitivity thresholds for internal vs external users.
 
+### [2026-01-19] refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+- Built drop-in ASGI middleware intercepting incoming requests and outgoing LLM streaming responses.
+
