@@ -63,3 +63,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Audit checkpoint [2026-01-21]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
