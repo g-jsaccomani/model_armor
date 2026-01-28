@@ -213,3 +213,5 @@ For complete architecture specifications, see [docs/architecture.md](docs/archit
 *Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved.*
 
 <!-- Checkpoint: 2026-01-09 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
+
+<!-- Checkpoint: 2026-01-28 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
