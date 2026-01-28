@@ -67,3 +67,5 @@ class CanaryManager:
 # Audit checkpoint [2025-12-09]: feat(safety-template): deploy tenant-specific content safety template for client portal
 
 # Audit checkpoint [2025-12-25]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-01-28]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
