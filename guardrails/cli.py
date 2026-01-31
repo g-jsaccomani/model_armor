@@ -129,3 +129,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-01-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-01-13]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-01-31]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
