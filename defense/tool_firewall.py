@@ -83,3 +83,5 @@ class ToolFirewall:
 # Audit checkpoint [2025-12-23]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 
 # Audit checkpoint [2026-01-13]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-02-03]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
