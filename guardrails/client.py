@@ -300,3 +300,5 @@ class ModelArmorClient:
         loc = location or self.location
         path = f"v1/projects/{self.project_id}/locations/{loc}/templates/{template_id}"
         return self._request("DELETE", path, location=loc)
+
+# Audit checkpoint [2026-02-19]: feat(safety-template): deploy tenant-specific content safety template for client portal
