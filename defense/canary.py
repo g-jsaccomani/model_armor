@@ -71,3 +71,5 @@ class CanaryManager:
 # Audit checkpoint [2026-01-28]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-02-11]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-02-26]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
