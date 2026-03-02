@@ -19,3 +19,5 @@ __all__ = ["EvalRunner", "BenchmarkReport"]
 # Audit checkpoint [2026-02-20]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-02-25]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-03-02]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
