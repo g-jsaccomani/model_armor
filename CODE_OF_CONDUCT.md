@@ -13,3 +13,5 @@ Examples of behavior that contributes to a positive environment include:
 * Focusing on what is best for the community
 
 <!-- Checkpoint: 2026-01-16 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
+
+<!-- Checkpoint: 2026-03-06 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
