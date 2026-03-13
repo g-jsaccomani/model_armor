@@ -212,3 +212,6 @@ All notable changes and security updates recorded below.
 ### [2026-03-12] feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 - Created streaming telemetry exporter sending structured violation records to customer analytical warehouse.
 
+### [2026-03-13] feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+- Implemented multi-layer input sanitization pipeline integrating Model Armor heuristics and classifier.
+
