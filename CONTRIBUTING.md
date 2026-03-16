@@ -16,3 +16,5 @@ Thank you for your interest in contributing to this repository!
 <!-- Checkpoint: 2025-12-22 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
 
 <!-- Checkpoint: 2025-12-31 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
+
+<!-- Checkpoint: 2026-03-16 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
