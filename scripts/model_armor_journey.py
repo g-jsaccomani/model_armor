@@ -573,3 +573,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-01-27]: feat(safety-template): deploy tenant-specific content safety template for client portal
 
 # Audit checkpoint [2026-01-29]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+
+# Audit checkpoint [2026-03-20]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
