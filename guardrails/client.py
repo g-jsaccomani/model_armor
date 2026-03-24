@@ -302,3 +302,5 @@ class ModelArmorClient:
         return self._request("DELETE", path, location=loc)
 
 # Audit checkpoint [2026-02-19]: feat(safety-template): deploy tenant-specific content safety template for client portal
+
+# Audit checkpoint [2026-03-24]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
