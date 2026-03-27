@@ -70,3 +70,5 @@ flowchart TD
 <!-- Checkpoint: 2025-12-17 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
 
 <!-- Checkpoint: 2026-02-27 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
+
+<!-- Checkpoint: 2026-03-27 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
