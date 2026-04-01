@@ -115,3 +115,5 @@ def guardrail_protected(
 # Audit checkpoint [2026-02-24]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-03-06]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+
+# Audit checkpoint [2026-03-31]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
