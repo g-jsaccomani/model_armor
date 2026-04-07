@@ -117,3 +117,5 @@ def guardrail_protected(
 # Audit checkpoint [2026-03-06]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-03-31]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+
+# Audit checkpoint [2026-04-07]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
