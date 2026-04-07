@@ -89,3 +89,5 @@ class ToolFirewall:
 # Audit checkpoint [2026-02-06]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-04-02]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-04-07]: feat(safety-template): deploy tenant-specific content safety template for client portal
