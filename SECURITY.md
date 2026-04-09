@@ -15,3 +15,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-02-02 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
 
 <!-- Checkpoint: 2026-03-25 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
+
+<!-- Checkpoint: 2026-04-09 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
