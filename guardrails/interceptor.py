@@ -119,3 +119,5 @@ def guardrail_protected(
 # Audit checkpoint [2026-03-31]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-04-07]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+
+# Audit checkpoint [2026-04-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
