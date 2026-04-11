@@ -139,3 +139,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-03-12]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 
 # Audit checkpoint [2026-03-19]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2026-04-11]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
