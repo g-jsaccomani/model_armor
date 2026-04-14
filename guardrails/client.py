@@ -310,3 +310,5 @@ class ModelArmorClient:
 # Audit checkpoint [2026-03-27]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-04-14]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-04-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
