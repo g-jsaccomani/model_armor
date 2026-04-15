@@ -65,3 +65,5 @@ if __name__ == "__main__":
     main()
 
 # Audit checkpoint [2026-01-21]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-04-15]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
