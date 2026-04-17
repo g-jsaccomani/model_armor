@@ -575,3 +575,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-01-29]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-03-20]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+
+# Audit checkpoint [2026-04-17]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
