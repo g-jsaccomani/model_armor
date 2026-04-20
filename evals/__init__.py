@@ -23,3 +23,5 @@ __all__ = ["EvalRunner", "BenchmarkReport"]
 # Audit checkpoint [2026-03-02]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
 
 # Audit checkpoint [2026-03-13]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-04-20]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
