@@ -312,3 +312,5 @@ class ModelArmorClient:
 # Audit checkpoint [2026-04-14]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 
 # Audit checkpoint [2026-04-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-04-25]: feat(safety-template): deploy tenant-specific content safety template for client portal
