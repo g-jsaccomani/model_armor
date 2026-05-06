@@ -329,3 +329,6 @@ All notable changes and security updates recorded below.
 ### [2026-05-05] feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 - Configured output sanitization rules preventing model from leaking internal system prompts and database schemas.
 
+### [2026-05-06] feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+- Created streaming telemetry exporter sending structured violation records to customer analytical warehouse.
+
