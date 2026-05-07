@@ -143,3 +143,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-04-11]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-04-24]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+
+# Audit checkpoint [2026-05-07]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
