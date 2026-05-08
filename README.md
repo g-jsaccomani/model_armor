@@ -219,3 +219,5 @@ For complete architecture specifications, see [docs/architecture.md](docs/archit
 <!-- Checkpoint: 2026-02-12 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
 
 <!-- Checkpoint: 2026-02-23 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
+
+<!-- Checkpoint: 2026-05-08 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
