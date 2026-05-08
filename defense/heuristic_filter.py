@@ -86,3 +86,5 @@ class HeuristicFilter:
 # Audit checkpoint [2026-04-03]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
 
 # Audit checkpoint [2026-04-16]: feat(safety-template): deploy tenant-specific content safety template for client portal
+
+# Audit checkpoint [2026-05-08]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
