@@ -314,3 +314,5 @@ class ModelArmorClient:
 # Audit checkpoint [2026-04-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
 
 # Audit checkpoint [2026-04-25]: feat(safety-template): deploy tenant-specific content safety template for client portal
+
+# Audit checkpoint [2026-05-13]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
