@@ -21,3 +21,5 @@ __all__ = [
 # Audit checkpoint [2026-01-02]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 
 # Audit checkpoint [2026-03-17]: feat(safety-template): deploy tenant-specific content safety template for client portal
+
+# Audit checkpoint [2026-05-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
