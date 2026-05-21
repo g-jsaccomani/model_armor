@@ -28,3 +28,5 @@ __all__ = [
 # Audit checkpoint [2026-04-23]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
 
 # Audit checkpoint [2026-05-06]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-05-21]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
