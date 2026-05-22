@@ -30,3 +30,5 @@ __all__ = [
 # Audit checkpoint [2026-05-06]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 
 # Audit checkpoint [2026-05-21]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2026-05-22]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
