@@ -316,3 +316,5 @@ class ModelArmorClient:
 # Audit checkpoint [2026-04-25]: feat(safety-template): deploy tenant-specific content safety template for client portal
 
 # Audit checkpoint [2026-05-13]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2026-05-25]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
