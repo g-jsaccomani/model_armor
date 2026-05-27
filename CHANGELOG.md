@@ -383,3 +383,6 @@ All notable changes and security updates recorded below.
 ### [2026-05-26] feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
 - Implemented multi-layer input sanitization pipeline integrating Model Armor heuristics and classifier.
 
+### [2026-05-27] sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline
+- Configured real-time PII detection and token substitution for patient records.
+

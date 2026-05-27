@@ -17,3 +17,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-03-06 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
 
 <!-- Checkpoint: 2026-04-03 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
+
+<!-- Checkpoint: 2026-05-27 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
