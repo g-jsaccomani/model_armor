@@ -25,3 +25,5 @@ __all__ = [
 # Audit checkpoint [2026-05-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-05-15]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-06-01]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
