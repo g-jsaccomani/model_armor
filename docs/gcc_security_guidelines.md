@@ -49,3 +49,5 @@ Model Armor access should follow the principle of least privilege:
 <!-- Checkpoint: 2026-05-18 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
 
 <!-- Checkpoint: 2026-05-21 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
+
+<!-- Checkpoint: 2026-06-10 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
