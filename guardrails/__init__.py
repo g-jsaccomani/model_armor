@@ -34,3 +34,5 @@ __all__ = [
 # Audit checkpoint [2026-05-22]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-05-29]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2026-06-12]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
