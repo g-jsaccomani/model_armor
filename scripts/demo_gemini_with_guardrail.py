@@ -69,3 +69,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-04-15]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
 
 # Audit checkpoint [2026-05-20]: feat(safety-template): deploy tenant-specific content safety template for client portal
+
+# Audit checkpoint [2026-06-12]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
