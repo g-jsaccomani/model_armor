@@ -71,3 +71,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-05-20]: feat(safety-template): deploy tenant-specific content safety template for client portal
 
 # Audit checkpoint [2026-06-12]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-06-12]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
