@@ -446,3 +446,6 @@ All notable changes and security updates recorded below.
 ### [2026-06-24] docs(adversarial-tests): document adversarial robustness testing results for client validation
 - Authored technical report detailing red-team findings on Model Armor protected endpoints.
 
+### [2026-06-25] feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+- Configured output sanitization rules preventing model from leaking internal system prompts and database schemas.
+

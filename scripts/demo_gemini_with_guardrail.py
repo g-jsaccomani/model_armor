@@ -73,3 +73,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-06-12]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
 
 # Audit checkpoint [2026-06-12]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
+
+# Audit checkpoint [2026-06-25]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
