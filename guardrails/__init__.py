@@ -38,3 +38,5 @@ __all__ = [
 # Audit checkpoint [2026-06-12]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-06-26]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-06-30]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
