@@ -328,3 +328,5 @@ class ModelArmorClient:
 # Audit checkpoint [2026-07-03]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-07-08]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-07-13]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
