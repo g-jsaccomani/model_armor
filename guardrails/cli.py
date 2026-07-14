@@ -147,3 +147,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-05-07]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
 
 # Audit checkpoint [2026-06-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2026-07-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
