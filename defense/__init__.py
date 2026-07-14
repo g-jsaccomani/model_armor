@@ -31,3 +31,5 @@ __all__ = [
 # Audit checkpoint [2026-07-03]: feat(safety-template): deploy tenant-specific content safety template for client portal
 
 # Audit checkpoint [2026-07-10]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+
+# Audit checkpoint [2026-07-14]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
