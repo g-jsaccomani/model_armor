@@ -123,3 +123,5 @@ def guardrail_protected(
 # Audit checkpoint [2026-04-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-05-15]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-07-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
