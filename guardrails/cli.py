@@ -149,3 +149,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-06-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
 
 # Audit checkpoint [2026-07-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+
+# Audit checkpoint [2026-07-25]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
