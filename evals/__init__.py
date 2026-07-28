@@ -35,3 +35,5 @@ __all__ = ["EvalRunner", "BenchmarkReport"]
 # Audit checkpoint [2026-06-16]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
 
 # Audit checkpoint [2026-07-20]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
+
+# Audit checkpoint [2026-07-28]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
