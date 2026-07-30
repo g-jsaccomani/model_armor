@@ -151,3 +151,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-07-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-07-25]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+
+# Audit checkpoint [2026-07-30]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
