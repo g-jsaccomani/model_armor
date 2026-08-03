@@ -85,3 +85,5 @@ python3 scripts/demo_gemini_with_guardrail.py <YOUR_PROJECT_ID> secops-guardrail
 <!-- Checkpoint: 2026-07-06 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
 
 <!-- Checkpoint: 2026-07-13 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
+
+<!-- Checkpoint: 2026-08-03 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
