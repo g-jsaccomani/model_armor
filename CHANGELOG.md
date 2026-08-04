@@ -554,3 +554,6 @@ All notable changes and security updates recorded below.
 ### [2026-08-03] sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline
 - Configured real-time PII detection and token substitution for patient records.
 
+### [2026-08-04] fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
+- Refactored inspection pipeline to enable parallelized asynchronous checks for non-critical safety categories.
+
