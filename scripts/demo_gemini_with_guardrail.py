@@ -77,3 +77,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-06-25]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-07-07]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
+
+# Audit checkpoint [2026-08-12]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
