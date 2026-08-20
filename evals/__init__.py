@@ -39,3 +39,5 @@ __all__ = ["EvalRunner", "BenchmarkReport"]
 # Audit checkpoint [2026-07-28]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
 
 # Audit checkpoint [2026-08-07]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
+
+# Audit checkpoint [2026-08-20]: feat(safety-template): deploy tenant-specific content safety template for client portal
