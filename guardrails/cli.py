@@ -121,39 +121,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Audit checkpoint [2025-12-16]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2025-12-30]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-01-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-01-13]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-01-31]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-02-02]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-02-10]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-03-12]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-03-19]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-04-11]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-04-24]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-05-07]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-06-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-07-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-07-25]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-07-30]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-07-31]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-08-18]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot

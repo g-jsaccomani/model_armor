@@ -105,29 +105,3 @@ def guardrail_protected(
         return wrapper
 
     return decorator
-
-# Audit checkpoint [2026-01-07]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-01-19]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-02-05]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-02-24]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-03-06]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-03-31]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-04-07]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-04-09]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-05-15]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-07-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-07-27]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-08-04]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-08-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant

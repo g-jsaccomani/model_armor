@@ -211,17 +211,3 @@ For complete architecture specifications, see [docs/architecture.md](docs/archit
 **Role:** Cloud Security Consultant
 **LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)
 *Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved.*
-
-<!-- Checkpoint: 2026-01-09 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-01-28 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-02-12 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-02-23 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-05-08 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-07-23 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-08-18 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->

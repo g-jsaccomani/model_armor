@@ -1,0 +1,39 @@
+name: Model Armor Security Evals & CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  lint-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8 pytest certifi
+
+      - name: Lint Code
+        run: |
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 . --count --exit-zero --max-complexity=15 --max-line-length=127 --statistics
+
+      - name: Validate Policy JSON Files
+        run: |
+          python3 -c "
+          import json, glob
+          for f in glob.glob('policies/*.json') + glob.glob('evals/datasets/*.json'):
+              with open(f) as fp:
+                  json.load(fp)
+                  print(f'Validated JSON: {f}')
+          "

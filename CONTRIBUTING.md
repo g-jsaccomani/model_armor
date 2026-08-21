@@ -12,17 +12,3 @@ Thank you for your interest in contributing to this repository!
 ## Development & Code Quality
 - Ensure all manifests, configurations, and code pass linting and security validations.
 - Document any new architecture, variables, or policy updates in `docs/` or the root `README.md`.
-
-<!-- Checkpoint: 2025-12-22 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2025-12-31 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-03-16 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-04-15 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-07-09 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-07-15 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-07-28 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->

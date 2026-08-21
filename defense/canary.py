@@ -63,25 +63,3 @@ class CanaryManager:
         if not token:
             return False
         return self._canary_engine.detect_leak(response, token)
-
-# Audit checkpoint [2025-12-09]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2025-12-25]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-01-28]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-02-11]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-02-26]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-04-20]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-05-11]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-05-19]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-07-11]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-07-21]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-08-10]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS

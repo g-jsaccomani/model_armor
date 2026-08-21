@@ -77,21 +77,3 @@ class ToolFirewall:
                 return False, f"Violation in argument '{arg_name}': {err}"
 
         return True, None
-
-# Audit checkpoint [2025-12-10]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2025-12-23]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-01-13]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-02-03]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-02-06]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-04-02]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-04-07]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-05-05]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-07-20]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS

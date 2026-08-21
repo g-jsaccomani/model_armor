@@ -69,23 +69,3 @@ Run the Python demo simulating a protected Gemini application workflow:
 ```bash
 python3 scripts/demo_gemini_with_guardrail.py <YOUR_PROJECT_ID> secops-guardrail-default
 ```
-
-<!-- Checkpoint: 2025-12-26 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-01-06 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-02-06 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-03-19 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-05-01 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-06-01 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-07-06 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-07-13 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-08-03 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-08-07 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->

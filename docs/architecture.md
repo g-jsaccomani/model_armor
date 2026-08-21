@@ -66,13 +66,3 @@ flowchart TD
 
 5. **Security Telemetry & Cloud Logging**:
    - Comprehensive audit logging for all sanitization requests and policy violations forwarded to Cloud Logging and Google Security Operations (Chronicle SIEM).
-
-<!-- Checkpoint: 2025-12-17 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-02-27 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-03-27 - docs(adversarial-tests): document adversarial robustness testing results for client validation -->
-
-<!-- Checkpoint: 2026-04-23 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->
-
-<!-- Checkpoint: 2026-06-05 - sec(pii-redaction): fine-tune PII masking and redaction rules for customer healthcare LLM pipeline -->

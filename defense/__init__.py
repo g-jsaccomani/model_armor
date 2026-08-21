@@ -15,21 +15,3 @@ __all__ = [
     "ToolFirewall",
     "ToolExecutionPolicy",
 ]
-
-# Audit checkpoint [2025-12-23]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-01-02]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-03-17]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-05-14]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-05-15]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-06-01]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-07-03]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-07-10]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-07-14]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset

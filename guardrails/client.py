@@ -300,37 +300,3 @@ class ModelArmorClient:
         loc = location or self.location
         path = f"v1/projects/{self.project_id}/locations/{loc}/templates/{template_id}"
         return self._request("DELETE", path, location=loc)
-
-# Audit checkpoint [2026-02-19]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-03-24]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-03-27]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-03-27]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-04-14]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-04-14]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-04-25]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-05-13]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-05-25]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-05-28]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-06-23]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-07-02]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-07-03]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-07-08]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-07-13]: refactor(fastapi-middleware): enhance FastAPI wrapper for Model Armor proxy integration in client app
-
-# Audit checkpoint [2026-07-15]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-07-27]: feat(safety-template): deploy tenant-specific content safety template for client portal

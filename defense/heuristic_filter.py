@@ -68,29 +68,3 @@ class HeuristicFilter:
                     reasons.append(f"Matched hidden signature in decoded payload: {pat.pattern}")
 
         return len(reasons) > 0, reasons
-
-# Audit checkpoint [2025-12-17]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2025-12-19]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-01-12]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-01-17]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-01-27]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-03-16]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-03-26]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-04-03]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-04-16]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-05-08]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-06-05]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-07-16]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-08-04]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot

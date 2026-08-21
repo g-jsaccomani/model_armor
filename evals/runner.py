@@ -175,19 +175,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Audit checkpoint [2025-12-26]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-01-06]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-01-20]: feat(tenant-sanitization): add input/output prompt sanitization rules for multi-tenant client SaaS
-
-# Audit checkpoint [2026-01-22]: feat(jailbreak-filter): configure customized jailbreak detection filters for client banking assistant
-
-# Audit checkpoint [2026-02-04]: feat(safety-template): deploy tenant-specific content safety template for client portal
-
-# Audit checkpoint [2026-02-19]: fix(latency-optimization): optimize Model Armor inspection latency for real-time customer voice bot
-
-# Audit checkpoint [2026-06-03]: feat(audit-telemetry): export Model Armor safety violation telemetry to client BigQuery dataset
-
-# Audit checkpoint [2026-06-18]: feat(safety-template): deploy tenant-specific content safety template for client portal
